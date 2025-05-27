@@ -1,6 +1,6 @@
 # GitLab Cheatsheet
 
-![text](https://imgur.com/QJ7J3qs.png)
+![image](https://github.com/user-attachments/assets/25f826b4-490f-40c8-9785-eca59c4f931b)
 
 **GitLab** is a web-based DevOps platform that provides a robust set of tools for source code management, CI/CD, project management, and deployment automation. This cheatsheet covers everything from basic usage to advanced GitLab features.
 
