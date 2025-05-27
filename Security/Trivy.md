@@ -1,6 +1,6 @@
 # Trivy Cheatsheet
 
-![text](https://imgur.com/TYu7qw7.png)
+![image](https://github.com/user-attachments/assets/a2ddedc5-12d8-4363-adae-2d1436b5c100)
 
 **1. Introduction:**
 
