@@ -1,6 +1,6 @@
 # Kubernetes Cheatsheet
 
-![text](https://imgur.com/aYuSIvY.png)
+![image](https://github.com/user-attachments/assets/37ec11ac-fbaf-41c7-8a10-4a2ad0178ccc)
 
 ## Checkout detailed article on [Dev.to](https://dev.to/prodevopsguytech/kubernetes-commands-for-devops-engineers-124o)
 
