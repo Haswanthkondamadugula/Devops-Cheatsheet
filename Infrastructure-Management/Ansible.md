@@ -1,6 +1,6 @@
 # 📜 **Ansible Cheatsheet**  
 
-![ansible](https://imgur.com/XwECXoK.png)
+![image](https://github.com/user-attachments/assets/07294b49-286f-470e-a463-a43a4faccd67)
 
 ## **🔹 Introduction to Ansible**  
 
@@ -323,5 +323,3 @@ This **Ansible Cheatsheet** provides a **step-by-step guide** from **beginner to
 ✅ **Use roles for better structuring**  
 ✅ **Secure credentials with Ansible Vault**  
 ✅ **Automate cloud infrastructure with Terraform + Ansible**  
-
-🔗 **Contribute to the Cheatsheet Collection:** [GitHub Repo](https://github.com/NotHarshhaa/devops-cheatsheet)  
