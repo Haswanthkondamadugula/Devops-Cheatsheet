@@ -1,6 +1,6 @@
 # **Jenkins Cheatsheet**
 
-![](https://imgur.com/jWGs9lH.png)
+![image](https://github.com/user-attachments/assets/d57437c8-66e9-423b-8fce-397604ad8825)
 
 **1. Introduction:**
 
