@@ -1,6 +1,6 @@
 # AWS Cheatsheet
 
-![text](https://imgur.com/DDbwilK.png)
+![image](https://github.com/user-attachments/assets/5b799697-0284-47ef-8982-9812b27236f5)
 
 **1. Introduction:**
 
