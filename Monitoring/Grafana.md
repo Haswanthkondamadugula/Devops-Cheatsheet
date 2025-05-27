@@ -1,6 +1,6 @@
 # Grafana Cheatsheet
 
-![text](https://imgur.com/j07r4L6.png)
+![image](https://github.com/user-attachments/assets/696f75c0-ea5d-4dff-9403-bf36cff4554e)
 
 **1. Introduction:**
 
