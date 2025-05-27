@@ -1,6 +1,6 @@
 # Docker Cheatsheet
 
-![text](https://imgur.com/XHwJp6U.png)
+![image](https://github.com/user-attachments/assets/6e921413-d063-4f41-a612-fe8113d266c7)
 
 ## Checkout detailed article on [Dev.to](https://dev.to/prodevopsguytech/docker-commands-from-beginner-to-advanced-for-devops-engineers-bb3)
 
