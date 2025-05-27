@@ -1,6 +1,6 @@
 # Nagios Cheatsheet
 
-![text](https://imgur.com/O9DGMee.png)
+![image](https://github.com/user-attachments/assets/7ee305ce-3011-4760-9151-7c39d233219f)
 
 **1. Introduction:**
 
