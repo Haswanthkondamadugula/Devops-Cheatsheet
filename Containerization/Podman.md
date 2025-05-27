@@ -1,6 +1,6 @@
 # Podman Cheatsheet
 
-![text](https://imgur.com/6x1bZIJ.png)
+![image](https://github.com/user-attachments/assets/7fc2deab-4b3e-4323-b8ce-2898b6579562)
 
 **1. Introduction:**
 
