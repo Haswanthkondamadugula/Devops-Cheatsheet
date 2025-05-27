@@ -1,6 +1,6 @@
 # Linkerd Cheatsheet
 
-![text](https://imgur.com/xyQcgGf.png)
+![image](https://github.com/user-attachments/assets/f9329169-b14d-4a7f-bac1-1aed03cd538f)
 
 ## **Overview**
 
