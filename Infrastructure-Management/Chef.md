@@ -1,6 +1,6 @@
 # 🧑‍🍳 Chef Cheat Sheet
 
-[![chef-cheat.png](https://i.postimg.cc/SsthzhnB/chef-cheat.png)](https://postimg.cc/hzxwHNbs)
+![image](https://github.com/user-attachments/assets/c5793ec6-5367-4c99-821b-e37e76db6137)
 
 ## 📘 Introduction
 
