@@ -1,6 +1,6 @@
 # Helm Cheatsheet
 
-![text](https://imgur.com/nDW9BHK.png)
+![image](https://github.com/user-attachments/assets/65303279-30f5-435a-97ed-f98c17b66b81)
 
 **1. Introduction:**
 
