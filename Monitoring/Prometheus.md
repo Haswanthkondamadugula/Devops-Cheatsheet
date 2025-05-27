@@ -1,6 +1,6 @@
 # Prometheus Cheatsheet
 
-![text](https://imgur.com/nthHFQk.png)
+![image](https://github.com/user-attachments/assets/f9ac3b64-d03b-4f6f-88c7-54960758835d)
 
 **1. Introduction:**
 
