@@ -1,6 +1,6 @@
 # 🤖 Puppet Cheat Sheet
 
-[![puppet-cheat.png](https://i.postimg.cc/HkpyTqyw/puppet-cheat.png)](https://postimg.cc/8j05Hnwc)
+![image](https://github.com/user-attachments/assets/2f5a1001-b63c-456c-86bc-3e50ebd4b49e)
 
 ## 📘 Introduction
 
