@@ -1,6 +1,6 @@
 # GitLab CI Cheatsheet
 
-![](https://imgur.com/dbufti0.png)
+![image](https://github.com/user-attachments/assets/fc7bae44-a47b-422b-b132-7743d9943dc0)
 
 **1. Introduction:**
 
