@@ -1,6 +1,6 @@
 # GitHub Actions Cheatsheet
 
-![](https://imgur.com/GMwRo18.png)
+![image](https://github.com/user-attachments/assets/e09f1db5-195f-4ab0-8060-670900af79de)
 
 **1. Introduction:**
 
