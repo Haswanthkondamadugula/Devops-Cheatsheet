@@ -1,6 +1,6 @@
 # Consul Cheatsheet
 
-![text](https://imgur.com/RWncIhL.png)
+![image](https://github.com/user-attachments/assets/d244484a-6336-4f23-8c44-461938c9686d)
 
 ## **Overview**
 
