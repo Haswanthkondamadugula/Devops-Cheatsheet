@@ -1,6 +1,6 @@
 # 🧾 Terraform Cheat Sheet (Beginner → Advanced)
 
-![text](https://imgur.com/FwmjyK1.png)
+![image](https://github.com/user-attachments/assets/7eb15086-51e9-4dac-b1d2-72ffadf326ee)
 
 ## 📘 **Introduction**
 
