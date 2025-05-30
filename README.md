@@ -14,11 +14,7 @@ Welcome to the **DevOps Tools Cheatsheet Collection** – your go-to resource fo
 
 ---
 
-## 🌐 DevOps Tools Cheatsheet UI
-
-> [!TIP]
->
-> Access this collection through our modern web interface at [cheatsheet.prodevopsguytech.com](https://cheatsheet.prodevopsguytech.com)
+## 🌐 DevOps Tools Cheatsheet UI)
 
 ### 🛠️ Built With
 - **Next.js** - React framework for production
